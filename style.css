@@ -15,11 +15,12 @@ img {
 }
 
 nav {
-  text-align: : center;
+  text-align: center;
 }
 
 nav a {
-  padding: 10px;
+  padding-left: : 10px;
+  padding-right: 10px;
   background: grey;
 }
 
@@ -42,5 +43,6 @@ footer {
   display: block;
   float: left;
   width: 25%;
+  text-align: center;
   background: red;
 }
