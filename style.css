@@ -33,9 +33,7 @@ figcaption {text-align: center;}
 footer {
   text-align: center;  
   width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 
-}
-
-#details > div {
-  float: left; 
 }
