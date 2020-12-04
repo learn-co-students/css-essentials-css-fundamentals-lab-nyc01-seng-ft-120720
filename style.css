@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+figure, nav {
+  text-align: center;
+}
+
+ nav a {
+  background: orange;
+}
+
+#featured-property  p {
+  text-align: center;
+  max-width: 800px;
+  margin: auto;
+  }
+
+div {
+  display: block;
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
