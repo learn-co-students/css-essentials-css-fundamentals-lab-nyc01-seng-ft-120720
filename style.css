@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  margin-left:auto;
+  margin-right:auto;
+  width:20%;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:40%;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background: grey;
+}
+
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+
+#featured-property p {
+  margin: auto;
+  width: 800px;
+}
+
+#details {
+  display:block;
+}
+
+#details div {
+  float: left;
+  margin: auto;
+  background: grey;
+  width: 25%;
+}
+
+
+
+
+
+
+
